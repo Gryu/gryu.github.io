@@ -1,2 +1,1 @@
-# gryu.github.io
-# gryu.net
+# gryu.github.com
