@@ -9,7 +9,7 @@
     <channel>
         <title>边缘笔记屋</title>
         <link>https://gryu.net/</link>
-        <description>边缘笔记屋，记录我的感悟与读物。</description>
+        <description>记录生活中的感悟，也有对生活的碎碎念，期待着每个黎明，只待黎明。</description>
         <generator>Hugo 0.113.0 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Tue, 13 Jun 2023 02:47:37 &#43;0800</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 03:34:15 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://gryu.net/rss.xml" />
         
